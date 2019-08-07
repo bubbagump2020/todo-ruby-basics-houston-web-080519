@@ -12,7 +12,7 @@ def argue(arg)
   return arg
 end
 
-def greeting
+def greeting(date, name)
 
 end
 
